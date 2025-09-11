@@ -1,7 +1,48 @@
-## Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Данила
-# Опыт разработки и DevOps 
-Мой путь в ИТ, который я начал в Школе 21 — Интенсивный практической программы подготовки разработчиков от Сбера. Именно там я получил сильную базовую подготовку, начав с языка C. Работа с низкоуровневыми концепциями, строгой типизацией и памятью управления сформировала мой стиль работы: дисциплинированный, внимательный к деталям и ориентированный на глубокое понимание процессов. Успешно завершив базовый блок и реализовав финальный проект (клон игры «Тетрис»), я осознанно выбрал направление DevOps. Я заинтересован в создании эффективных и надежных инструментальных цепочек. Мой практический опыт включает в себя: развертывание и сокращение виртуальных сред, объединение машин в локальную сеть. Организация процесса CI/CD для одного из проектов на C с последующей интеграцией в Telegram-бота. Настройка систем на базе Диптихов Прометей и Графана для визуализации метрик. Работа с реляционными базами данных, в частности PostgreSQL. Сейчас я активно использую свои знания, изучаю Python, чтобы совершенствовать арсенал инструментов и автоматизировать задачи, делая процессы еще более эффективными. Я горю желанием применять и развивать свои навыки в области DevOps, практических решений и решений по надежности.
+# Привет! 👋 Меня зовут Данила
 
-<p align="left">
-<a href="https://docs.microsoft.com/ru-ru/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+### Python & DevOps инженер
+
+Мой путь в IT начался в **School 21** (интенсивная программа подготовки разработчиков от Сбера) Именно там я получил сильную базовую подготовку, начав с языка C. Работа с низкоуровневыми концепциями, строгой типизацией и управлением памятью сформировала мой стиль работы: **дисциплинированный, внимательный к деталям и нацеленный на глубокое понимание процессов.**
+
+Успешно завершив базовый блок и реализовав финальный проект (клон игры «Тетрис»), я осознанно выбрал направление DevOps. Мой интерес лежал в области создания эффективных и надежных инструментальных цепочек.
+
+Мой практический опыт включает:
+
+Развертывание и настройку виртуальных сред, объединение машин в локальную сеть.
+
+Организация процесса CI/CD для одного из проектов на C с последующей интеграцией в Telegram-бота.
+
+Настройка систем мониторинга на базе Prometheus и Grafana для визуализации метрик.
+
+Работа с реляционными базами данных, в частности PostgreSQL.
+
+Сейчас я активно углубляю свои знания, изучая Python, чтобы расширить арсенал инструментов и автоматизировать задачи, делая процессы еще более эффективными. Я горю желанием применять и развивать свои навыки в области DevOps, предлагая практические и надежные решения.
+---
+
+### 🛠️ Технологический стек
+
+**Языки программирования и окружение**
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="Bash" title="Bash" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
 </p>
+
+**Базы данных**
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
+</p>
+
+**DevOps & Инструменты**
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" title="Grafana" width="36" height="36" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" title="Prometheus" width="36" height="36" />
+</p>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

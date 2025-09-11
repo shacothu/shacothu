@@ -1,6 +1,10 @@
 # Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Данила
 
 ### Опыт разработки и DevOps <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/YSI6mSgURVPdQqKWcM/giphy.gif" width="50">
+
 
 Мой путь в IT начался в **School 21** (интенсивная программа подготовки разработчиков от Сбера) Именно там я получил сильную базовую подготовку, начав с языка C. Работа с низкоуровневыми концепциями, строгой типизацией и управлением памятью сформировала мой стиль работы: **дисциплинированный, внимательный к деталям и нацеленный на глубокое понимание процессов.**
 
